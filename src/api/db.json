@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Festival international de Carthage",
+      "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page",
+      "img": "event1.jpg",
+      "price": 30,
+      "nbTickets": 10,
+      "nbParticipants": 10,
+      "like": false
+    },
+    {
+      "id": "ca3b",
+      "name": "ggeee",
+      "description": "g",
+      "date": "2024-05-29",
+      "time": "22:57",
+      "isLiked": false,
+      "nbParticipants": "011",
+      "nbTickets": "11",
+      "img": ""
+    }
+  ]
+}
